@@ -1,3 +1,4 @@
+![](https://github.com/lizhun-2002/TradingAnalyzer/raw/master/README/logo.png)
 # Trading-Analyzer
 
 ## Introduction
