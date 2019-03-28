@@ -8,7 +8,7 @@ Trading Analyzer is a management system of stock trading records and also a simp
 *  Configuration
 ![](https://github.com/lizhun-2002/TradingAnalyzer/raw/master/README/configuration.png)
 *  Infomation Table
-  * Acount Information
+    * Acount Information
   ![](https://github.com/lizhun-2002/TradingAnalyzer/raw/master/README/info_AcountInformation.png)
   * Acount Status History
   ![](https://github.com/lizhun-2002/TradingAnalyzer/raw/master/README/info_AcountStatusHistory.png)
